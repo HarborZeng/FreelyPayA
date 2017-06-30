@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">支付助手</string>
+
+    <string name="navigation_drawer_open">打开抽屉</string>
+    <string name="navigation_drawer_close">关闭抽屉</string>
+
+    <string name="action_settings">设置</string>
+    <string name="qr_code">二维码</string>
+    <string name="pay">支付</string>
+    <string name="input_id_code">在这里输入收钱码</string>
+    <string name="default_code">tsx009216jz1qtdaoiqcw10</string>
+    <string name="seems_no_alipay_installed">你好像没有安装支付宝</string>
+    <string name="receiver_id_code_first">请先输入收钱码</string>
+    <string name="read_failed">识别二维码失败</string>
+    <string name="read_succeed">识别二维码成功</string>
+    <string name="reading_qr_code">正在识别您选择的二维码</string>
+    <string name="mock_scanning_qr_code">模拟扫描支付宝收钱码</string>
+    <string name="scan">扫描</string>
+    <string name="other">其他</string>
+    <string name="share">分享</string>
+    <string name="feedback">反馈</string>
+    <string name="help">帮助</string>
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+    <string name="this_is_business_qr_code">这是商家收钱码</string>
+    <string name="this_is_personal_qr_code">这是个人收钱码</string>
+    <string name="begin_happy">开启收钱打钱的乐趣</string>
+    <string name="advice_feedback">意见反馈</string>
+    <string name="no_alipay_installed">你没有安装支付宝</string>
+</resources>
